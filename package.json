@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.1",
+    "nodemon": "^3.0.1"
+  },
+  "name": "practicewebapi",
+  "description": "- Object Data Modeling(Using MongpDB's moongoose)\r - Difference between ODM (Object Data Modelling) and ORM (Object Relational Mapper)\r - How to create an API service",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Deolamma/PracticeWebAPI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deolamma/PracticeWebAPI/issues"
+  },
+  "homepage": "https://github.com/Deolamma/PracticeWebAPI#readme"
+}
