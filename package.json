@@ -15,8 +15,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://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@github.com/Deolamma/PracticeWebAPI.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
